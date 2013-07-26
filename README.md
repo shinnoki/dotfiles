@@ -12,5 +12,5 @@ make
 ```
 
 [Reference]  
-dotfilesをgithubで管理し、Vundleを導入する <http://d.hatena.ne.jp/oovu70/20120324/p1>
+dotfilesをgithubで管理し、Vundleを導入する <http://d.hatena.ne.jp/oovu70/20120324/p1>  
 Zshのオススメ設定集 <https://github.com/clear-code/zsh.d>
