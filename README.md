@@ -7,9 +7,10 @@ My setting files
 ```
 git clone https://github.com/shinnoki/dotfiles  
 cd dotfiles  
+git submodule update --init
 make
 ```
 
-[Reference]
+[Reference]  
 <http://d.hatena.ne.jp/oovu70/20120324/p1>
 
